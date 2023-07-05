@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/advanced-phone-lookup/static/css/main.99246228.chunk.css",
+    "main.js": "/advanced-phone-lookup/static/js/main.8bbc3970.chunk.js",
+    "main.js.map": "/advanced-phone-lookup/static/js/main.8bbc3970.chunk.js.map",
+    "runtime-main.js": "/advanced-phone-lookup/static/js/runtime-main.6e3acb86.js",
+    "runtime-main.js.map": "/advanced-phone-lookup/static/js/runtime-main.6e3acb86.js.map",
+    "static/css/2.5cc44b8d.chunk.css": "/advanced-phone-lookup/static/css/2.5cc44b8d.chunk.css",
+    "static/js/2.02d9bfdc.chunk.js": "/advanced-phone-lookup/static/js/2.02d9bfdc.chunk.js",
+    "static/js/2.02d9bfdc.chunk.js.map": "/advanced-phone-lookup/static/js/2.02d9bfdc.chunk.js.map",
+    "index.html": "/advanced-phone-lookup/index.html",
+    "static/css/2.5cc44b8d.chunk.css.map": "/advanced-phone-lookup/static/css/2.5cc44b8d.chunk.css.map",
+    "static/css/main.99246228.chunk.css.map": "/advanced-phone-lookup/static/css/main.99246228.chunk.css.map",
+    "static/js/2.02d9bfdc.chunk.js.LICENSE.txt": "/advanced-phone-lookup/static/js/2.02d9bfdc.chunk.js.LICENSE.txt",
+    "static/media/unsure.8d1ad89d.png": "/advanced-phone-lookup/static/media/unsure.8d1ad89d.png",
+    "static/media/verified.6ff2d5b6.png": "/advanced-phone-lookup/static/media/verified.6ff2d5b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e3acb86.js",
+    "static/css/2.5cc44b8d.chunk.css",
+    "static/js/2.02d9bfdc.chunk.js",
+    "static/css/main.99246228.chunk.css",
+    "static/js/main.8bbc3970.chunk.js"
+  ]
+}
