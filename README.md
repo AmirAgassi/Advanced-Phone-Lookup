@@ -1,4 +1,4 @@
-# Advanced-Phone-Lookup
+# Advanced Phone Lookup
 
 This is a React frontend for the PhoneScoutNA API. This project provides a user-friendly interface to interact with the API and retrieve detailed loss prevention information for any North American (+1) phone number.
 
