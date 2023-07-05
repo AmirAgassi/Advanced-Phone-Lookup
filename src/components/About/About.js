@@ -136,7 +136,7 @@ const About = () => {
     setIsLoading(true);
   
     try {
-      url = `https://nexuslinksoftwares-a7cc4c050fd6.herokuapp.com/lookup/${value}`
+      url = `https://nexuslinksoftwares.ca/lookup/${value}`
       const response = await fetch(url, {
         method: 'GET',
         headers: {
