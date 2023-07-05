@@ -136,7 +136,7 @@ const About = () => {
     setIsLoading(true);
   
     try {
-      url = `https://nexuslinksoftwares.ca/lookup/${value}`
+      url = `http://nexuslinksoftwares.ca/lookup/${value}`
       const response = await fetch(url, {
         method: 'GET',
         headers: {
