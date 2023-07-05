@@ -32,7 +32,7 @@ const ProjectContainer = ({ project }) => (
       {project.description === "IPES" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
       {project.description === "ICO" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
       {project.description === "PCS" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
-      {project.description === "L RESELLER" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
+      {project.description === "L  RESELLER" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
       {project.description === "UNKNOWN" && project.name === "Prefix Type" && <img src={unsure} alt="Unsure Symbol" style={{ marginLeft: '8px', height: '20px' }} />}
       {project.description === 'CA' && <img src={canadaFlagImg} alt="Canadian flag" style={{ marginLeft: '8px', height: '20px' }} />}
       {project.description === 'US' && <img src={usFlagImg} alt="US flag" style={{ marginLeft: '8px', height: '20px' }} />}
