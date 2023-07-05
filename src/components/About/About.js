@@ -214,7 +214,7 @@ const About = () => {
       console.log(sortedData)
       let projectsFull = Object.keys(sortedData).map((key) => (
         {
-          name: key === 'Specs' ? 'NPA, NXX, Thousands' : key,
+          name: key === 'Specs' ? 'NPA, NXX, 1000s' : key,
           description: sortedData[key],
           companyidentified: key === "Company" ? CompanyIdentified : "N/A",
         }
